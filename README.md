@@ -1,2 +1,4 @@
 # euler
-Solutions for problems from projecteuler.net
+
+java solutions for problems from
+https://projecteuler.net/archives
